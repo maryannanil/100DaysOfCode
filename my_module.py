@@ -1,0 +1,1 @@
+myfavouritenumber = 7
